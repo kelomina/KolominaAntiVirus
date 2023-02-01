@@ -3,9 +3,9 @@ KolominaAntiVirus
 # KolominaAntiVirus
 *这是一个基于 **GPL V2**协议的项目，但是后期可能会根据情况修改开源协议*
 
-我们使用 **易语言** 开发，如果您看不惯易语言，可以退出了
+我们使用 **易语言** 项目**诸葛亮杀毒** 开发，如果您看不惯易语言或诸葛亮杀毒，可以退出了
 
-官网：[KolominaStudio.shutdownstudio.top](KolominaStudio.shutdownstudio.top)
+官网：[KoloStudio.fun](kolostudio.fun)
 
 开源项目更新要比发行版慢，所以github仓库上的版本可能很久才更新一次，请关注并点亮星星qwq
 
