@@ -10,6 +10,7 @@ KolominaAntiVirus
 请关注并点亮星星qwq
 
 开源代码请使用蓝奏云下载哦~~~
+https://kolomia.lanzoue.com/i1Y3x0phyw0j
 
 欢迎赞助！毕竟咱们团队也是要吃饭的嘛~嘿嘿~
 
