@@ -1,11 +1,11 @@
 # KolominaAntiVirus
 KolominaAntiVirus
 # KolominaAntiVirus
-*这是一个基于 **GPL V2**协议的项目，但是后期可能会根据情况修改开源协议*
+*这是一个基于 **MIT**协议的项目，但是后期可能会根据情况修改开源协议*
 
-我们使用 **易语言** 并基于项目 **诸葛亮杀毒** 进行开发，如果您看不惯易语言或诸葛亮杀毒，可以退出了
+我们使用 **易语言** 并基于项目进行开发，如果您看不惯易语言，可以退出了
 
-官网：[KoloStudio.fun](kolostudio.fun)
+官网：[KoloStudio.fun](https://www.kolostudio.fun)
 
 请关注并点亮星星qwq
 
