@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\libpe.ixx.obj",
+            "outputs": [
+                "E:\\Projects\\GetPEImportTable\\Release\\vc143.pdb",
+                "Release\\",
+                "E:\\Projects\\GetPEImportTable\\Release\\libpe.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "libpe",
+                    "source-path": "e:\\projects\\libpe-master\\libpe-master\\libpe\\libpe.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
