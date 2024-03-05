@@ -1,9 +1,0 @@
-{
-    "Version": "1.1",
-    "Data": {
-        "Source": "e:\\projects\\libpe-master\\libpe-master\\libpe\\libpe.ixx",
-        "ProvidedModule": "libpe",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}
